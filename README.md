@@ -1,9 +1,9 @@
-# Baseer Application 
+# Baseer System 
 
 ![logo](https://github.com/user-attachments/assets/2855db3e-f722-4f9f-b194-74d969a91f70)
 
 
-##### An application that uses Computer vision and LLM to analyze traffic during large events in Saudi Arabia.
+##### A system that uses Computer vision and LLM to analyze traffic during large events in Saudi Arabia.
 
 Our project tackles the issue of traffic congestion, especially
 during significant events such as festivals and sports
